@@ -42,5 +42,3 @@ This project leverages natural language processing (NLP) and document parsing to
 ✅ Conclusion
 The Smart Resume Parser successfully automates resume analysis using NLP and document parsing techniques. It provides a user-friendly interface for HR professionals and recruiters to extract structured data efficiently. Future enhancements may include multilingual support, keyword-based filtering, and integration with applicant tracking systems (ATS).
 
-
-Let me know if you'd like help formatting this into a polished PDF or adding visuals like flowcharts or UI screenshots.
